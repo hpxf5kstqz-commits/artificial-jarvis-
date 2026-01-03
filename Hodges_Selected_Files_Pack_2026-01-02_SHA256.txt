@@ -1,0 +1,55 @@
+Generated: 2026-01-02
+Algorithm: SHA-256
+
+FILE: Cipher_8B3_Backward_Validated_Temporal_Alignment_v1_10.md
+SIZE: 2081 bytes
+SHA256: 932862ef267253529d09256e5136cd073adb1ddf7e8df58cac67134901c7a7fb
+
+FILE: Codex_Addendum_Cipher8B3_Insertion_v1_10.md
+SIZE: 1071 bytes
+SHA256: 8a621cfa73d033431826d08fd51e82add0185d858698e139736ac14321f011aa
+
+FILE: Hodges_Codex_Closed_Loop_Addendum_v2.1.2.docx
+SIZE: 38074 bytes
+SHA256: cf0c1cc86ab95cbec7c1ffc697fff638fc2981755c7cab8c0daaa8181a50d7bd
+
+FILE: Hodges_Codex_Coding_Cybersecurity_Addendum.docx
+SIZE: 39004 bytes
+SHA256: 8938b76bace401c4beb357cd621f915c9c687ff42c3ec5e85d7d3816265060b3
+
+FILE: Hodges_Healing_Codex_v1.0.pdf
+SIZE: 4795 bytes
+SHA256: 0c01c929bcf297f05c019e0f94a1e124090ef02dbf3f029f532d7a9f181ad28d
+
+FILE: Hodges_Work_Mode_Card_v1.0.md
+SIZE: 635 bytes
+SHA256: 7d2970b330ca5ec245a041e3168dfc2a7badb6c89b7935bb1ca9cff27a33ee6f
+
+FILE: Nick_Hodges_Discovery_Library_v0_1.docx
+SIZE: 39773 bytes
+SHA256: 3df871795d91fea462bcc90081e308ede0638bfe6cce241e74781ad6860c00be
+
+FILE: Nick_Hodges_Discovery_Library_v0_1.md
+SIZE: 5957 bytes
+SHA256: aae3845482f86aaf339c61383a4410d3b54cac2ab1c4427767448e577706734b
+
+FILE: Nick_Hodges_Discovery_Library_v0_1.pdf
+SIZE: 6725 bytes
+SHA256: 586f47e33591aabcd0c718ca1e270cb84dc47995ce0c0b8f2990c53a6c8a220d
+
+FILE: Reverse_Binding_Operation_Log_Cipher8B3.md
+SIZE: 1530 bytes
+SHA256: 1794baef89866e9b40893721c9821277ee6bd3fac215f919d22a3c290825fa8f
+
+FILE: Reverse_Binding_Operation_Log_Cipher8B3_v1_10.md
+SIZE: 650 bytes
+SHA256: 8dc562bd4957badb6088acc92df9e033d4beda5619f3fd076b7469bbadebb13b
+
+FILE: SAN_DayShift_NightShift_Addendum_v1_1.pdf
+SIZE: 7894 bytes
+SHA256: 3d7968a3eeb2b9016ea195458320f05fbd30a79a3709046e34c0ccfab372b305
+
+FILE: SAN_One_Page_Shift_Card_v1_0.pdf
+SIZE: 3488 bytes
+SHA256: 9eda42a630a20e212f5fde78753a9b4009c077700d6cf34d5c00c46799e91d05
+
