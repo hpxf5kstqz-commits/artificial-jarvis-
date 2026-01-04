@@ -1,0 +1,19 @@
+{
+  "type": "cipher_variant",
+  "id": "cipher_08B3",
+  "name": "Cipher 8.B3 — Backward-Validated Temporal Alignment",
+  "relates_to": "cipher_08",
+  "source_files": [
+    "Reverse_Binding_Operation_Log_Cipher8B3_v1_10.md",
+    "Codex_Addendum_Cipher8B3_Insertion_v1_10.md",
+    "Cipher_8B3_Backward_Validated_Temporal_Alignment_v1_10.md",
+    "Reverse_Binding_Operation_Log_Cipher8B3.md"
+  ],
+  "sha256_files": {
+    "Reverse_Binding_Operation_Log_Cipher8B3_v1_10.md": "8dc562bd4957badb6088acc92df9e033d4beda5619f3fd076b7469bbadebb13b",
+    "Codex_Addendum_Cipher8B3_Insertion_v1_10.md": "8a621cfa73d033431826d08fd51e82add0185d858698e139736ac14321f011aa",
+    "Cipher_8B3_Backward_Validated_Temporal_Alignment_v1_10.md": "932862ef267253529d09256e5136cd073adb1ddf7e8df58cac67134901c7a7fb",
+    "Reverse_Binding_Operation_Log_Cipher8B3.md": "1794baef89866e9b40893721c9821277ee6bd3fac215f919d22a3c290825fa8f"
+  },
+  "notes": "Variant docs included as original markdown files."
+}
