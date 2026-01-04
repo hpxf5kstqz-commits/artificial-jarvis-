@@ -1,0 +1,8 @@
+{
+  "type": "cipher",
+  "id": "cipher_05",
+  "number": 5,
+  "name": "Pi-Integrated Dual-Mode",
+  "short_description": "Discrete ↔ continuous; scale coherence",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}

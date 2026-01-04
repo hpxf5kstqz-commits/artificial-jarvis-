@@ -1,0 +1,8 @@
+{
+  "type": "cipher",
+  "id": "cipher_01",
+  "number": 1,
+  "name": "Four-Point Square",
+  "short_description": "Positive / Negative / Neutral / Reflection",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}

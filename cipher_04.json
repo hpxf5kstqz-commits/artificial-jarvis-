@@ -1,0 +1,8 @@
+{
+  "type": "cipher",
+  "id": "cipher_04",
+  "number": 4,
+  "name": "Multi-Loop Rotation",
+  "short_description": "Attractor basins; emergence; pattern dynamics",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}

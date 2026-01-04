@@ -1,0 +1,9 @@
+{
+  "type": "cipher",
+  "id": "cipher_09",
+  "number": 9,
+  "name": "Asymmetric Reflection Loop",
+  "short_description": "non-curved",
+  "details": "- Path: Positive (bottom-left) → Negative (up & right) → Neutral (left) → Reflection / Upside-down (down & right)\n- Use: models cost-based learning; reflection occurs after resistance and neutral pause.",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}

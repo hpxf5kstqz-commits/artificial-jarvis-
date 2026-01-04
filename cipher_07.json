@@ -1,0 +1,8 @@
+{
+  "type": "cipher",
+  "id": "cipher_07",
+  "number": 7,
+  "name": "Inverse-Constraint Question Generator",
+  "short_description": "Falsification & “unknown-knowns”",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}

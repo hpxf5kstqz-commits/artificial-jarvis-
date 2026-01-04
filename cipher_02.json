@@ -1,0 +1,8 @@
+{
+  "type": "cipher",
+  "id": "cipher_02",
+  "number": 2,
+  "name": "Triangular Reordering",
+  "short_description": "Priority switching among + / – / 0",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}

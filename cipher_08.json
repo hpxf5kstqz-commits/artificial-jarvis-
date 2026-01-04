@@ -1,0 +1,8 @@
+{
+  "type": "cipher",
+  "id": "cipher_08",
+  "number": 8,
+  "name": "Temporal Alignment",
+  "short_description": "Phase syncing across cycles; long-horizon auditing",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}

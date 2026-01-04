@@ -1,0 +1,8 @@
+{
+  "type": "cipher",
+  "id": "cipher_03",
+  "number": 3,
+  "name": "Infinity Loop",
+  "short_description": "Continuous refinement; no final “arrival”",
+  "source": "Nick_Hodges_Discovery_Library_v0_1.md"
+}
