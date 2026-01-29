@@ -2,6 +2,7 @@
 
 **Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
 **Source:** Nick Hodges Discovery Library
+
 - id: `infiniti_1`
 - type: `infiniti_engine`
 - number: 1
