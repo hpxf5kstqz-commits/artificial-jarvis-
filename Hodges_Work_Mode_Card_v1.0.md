@@ -1,4 +1,8 @@
 # Hodges — Work Mode Card v1.0
+
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Hodges Library
+
 **Private • Quick toggle • Low-noise focus protocol**  
 **Date:** January 1, 2026
 

@@ -1,4 +1,8 @@
 # Reverse Binding Operation Log — Cipher 8.B3
+
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Hodges Library
+
 **Version:** v1.10  
 **Status:** Complete
 

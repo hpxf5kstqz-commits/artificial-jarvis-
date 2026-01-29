@@ -1,4 +1,8 @@
 # Codex Addendum — Insert GICB.GLASS into Hodges Library
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Hodges Library
+
+
 **Version:** v1.0  
 **Status:** Locked Addendum  
 **Date:** 2026-01-02

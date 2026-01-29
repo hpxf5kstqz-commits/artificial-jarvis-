@@ -1,4 +1,8 @@
 # Cipher 8.B3 — Backward-Validated Temporal Alignment
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Hodges Library
+
+
 **Status:** Defined + Safety-Bounded (Version pending Nick’s numbering)
 
 ## Canonical Definition

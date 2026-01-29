@@ -1,4 +1,8 @@
 # Reverse Binding Operation Log — HQPC v1.0
+
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Hodges Library
+
 **Version:** v1.0  
 **Status:** Complete  
 **Date:** 2026-01-02

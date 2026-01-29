@@ -1,5 +1,9 @@
 # S.A.N — Full Integrated Pack v1.2
 
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**
+**Source:** Hodges Library
+
+
 **Build date:** 2026-01-02 (America/New_York)
 
 This package is a single, integrated bundle of the S.A.N ecosystem plus supporting Codex / Library materials, including the newly added **Hodges Quantum Physics Codex (HQPC) v1.0**.
