@@ -1,4 +1,7 @@
 # Codex Addendum — Insert Cipher 8.B3 into Hodges Codex
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Hodges Library
+
 **Status:** Staged for binding (Version pending Nick’s numbering)
 
 ## Placement
