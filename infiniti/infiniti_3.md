@@ -1,4 +1,8 @@
 # Infiniti 3
+
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Nick Hodges Discovery Library
+
 - id: `infiniti_3`
 - type: `infiniti_engine`
 - number: 3

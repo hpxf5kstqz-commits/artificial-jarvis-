@@ -1,4 +1,8 @@
 # Reverse Binding Operation Log — Cipher 8.B3
+
+**Copyright © 2026 Evan Nicholas Hodges. All rights reserved.**  
+**Source:** Hodges Library
+
 **Goal:** Apply `+= Backwards 3` to Cipher 8 and bind as a new cipher variant, using reverse order (Version reiteration → Codex addition → Cipher lock).
 
 ## Reverse Step 3 — Version Reiteration (performed first)
